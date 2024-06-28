@@ -1,0 +1,26 @@
+h1{
+    color:red;
+}
+p{
+   color:olive 
+}
+button{
+    color:brown;
+    background-color: white;
+}
+
+body{
+    background-color: aliceblue;
+}   
+
+#h1{
+    color: yellow;
+}
+
+#h2{
+    color:blue;
+}
+
+.myclass{
+    color: black;
+}
